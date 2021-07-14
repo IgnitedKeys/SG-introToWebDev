@@ -1,0 +1,35 @@
+header, footer {
+    text-align:left;
+    height: 120px;
+    background-color: #ffb7c5;
+    padding: 20px 10px 20px 30px;
+    color: #fef9ff;
+}
+.title {
+    font-size: 4em;
+    font-family: 'Lemonada', cursive;
+}
+body {
+    background-color: #fef9ff;
+}
+nav {
+    border-top: thin solid #b7cbff;
+    border-bottom: thin solid #b7cbff;
+    padding: 20px 10px 20px 30px;
+}
+nav a:hover {
+    font-size: 1.2em;
+}
+
+nav a:visited{
+    background-color: #b7cbff;
+    color:#c5ffb7
+}
+nav a {
+    background-color: #c5ffb7;
+    color: #00092e;
+}
+
+article {
+    padding: 20px 10px 20px 30px;
+}
